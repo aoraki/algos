@@ -35,8 +35,6 @@ Constraints:
 -109 <= nums[i] <= 109
 -109 <= target <= 109
 Only one valid answer exists.
-
-
 */
 public class TwoSumSolution {
     public int[] twoSum(int[] nums, int target) {

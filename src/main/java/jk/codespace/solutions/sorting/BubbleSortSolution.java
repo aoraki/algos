@@ -1,4 +1,4 @@
-package jk.codespace.solutions;
+package jk.codespace.solutions.sorting;
 
 public class BubbleSortSolution {
 

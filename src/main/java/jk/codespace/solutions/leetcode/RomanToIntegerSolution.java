@@ -1,4 +1,4 @@
-package jk.codespace.solutions;
+package jk.codespace.solutions.leetcode;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

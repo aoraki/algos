@@ -1,4 +1,4 @@
-package jk.codespace.solutions;
+package jk.codespace.solutions.leetcode;
 
 /*
 Leetcode Problem : https://leetcode.com/problems/longest-common-prefix/

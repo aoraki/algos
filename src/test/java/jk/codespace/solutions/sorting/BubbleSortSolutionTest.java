@@ -1,5 +1,6 @@
-package jk.codespace.solutions;
+package jk.codespace.solutions.sorting;
 
+import jk.codespace.solutions.sorting.BubbleSortSolution;
 import org.junit.Test;
 
 import java.util.Arrays;

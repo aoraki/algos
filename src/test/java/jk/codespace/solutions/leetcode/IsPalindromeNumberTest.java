@@ -1,4 +1,4 @@
-package jk.codespace.solutions;
+package jk.codespace.solutions.leetcode;
 
 import org.junit.Test;
 
